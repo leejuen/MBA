@@ -2,4 +2,6 @@
 .vscode/
 .cache/
 .history/
+node_modules/
+_book/
 *.log*
