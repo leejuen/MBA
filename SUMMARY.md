@@ -1,3 +1,21 @@
-* [导航](README.md)
 * [数学]
-   *[整数、有理数、实数](notes/composite/integer/整数、有理数、实数.md)
+   * [整数、有理数、实数](notes/composite/integer/整数、有理数、实数.md)
+   * [整式、分式](notes/composite/integral/整式、分式.md)
+   * [绝对值与平均值](notes/composite/absolute/绝对值与平均值.md)
+   * [函数、方程与不等式](notes/composite/parabola/函数、方程与不等式.md)
+   * [数列](notes/composite/sequence/数列.md)
+   * [应用题](notes/composite/apply/应用题.md)
+   * [平面几何与立体几何](notes/composite/geometry/平面几何与立体几何.md)
+   * [平面解析几何](notes/composite/analysis/平面解析几何.md)
+   * [排列与组合](notes/composite/arrange/排列与组合.md)
+   * [概率统计初步](notes/composite/probability/概率统计初步.md)  
+* [逻辑]
+   * [形式逻辑](notes/composite/logic/形式逻辑.md)
+   * [分析推理](notes/composite/logic/分析推理.md)
+   * [论证推理](notes/composite/logic/论证推理.md)
+   * [联言、选言与推理考题](notes/composite/logic/联言、选言与推理考题.md)
+   * [削弱、支持与假设考题](notes/composite/logic/削弱、支持与假设考题.md)
+* [写作]
+   
+* [英语]
+* [面试]
