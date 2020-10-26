@@ -1,5 +1,4 @@
 ## consider
-
 * v认为，把……什么看作；考虑，细想；体谅，考虑到；顾及 
   considerable considerate consideration considering 
 ##  suppose
