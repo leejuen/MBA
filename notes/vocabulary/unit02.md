@@ -106,9 +106,10 @@
   publisher publication 
 
 ## distribute /dɪˈstrɪbjuːt,ˈdɪstrɪbjuːt/ 
-* v分发，分配；分销；使散开，使分布 
-  distribution. distributor 
-#  view
+* v分发，分配；分销；使散开，使分布    
+* distribution. distributor 
+
+## view
 * n(个人的)看法，观点，态度；（理解或思维的）方法，方式；景色，风景；视野
 * v把……视为，以……看待；查看，观看 
 
