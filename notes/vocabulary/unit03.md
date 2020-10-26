@@ -431,11 +431,9 @@
 
 * adj 唯一的，仅有的；专有的，独家的
 
-## solitary
+## solitary  /ˈsɑːləteri/ 
 
 * adj 单个的，唯一的；独自的；喜欢独处的
-
-
 
 ## account
 
