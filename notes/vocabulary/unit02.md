@@ -10,22 +10,22 @@
 ## deem
 * v认为，视为；相信 
 
-## regard
+## regard /rɪˈɡɑːrd/
 * v认为，把……看作；（尤指以某种方法）注视，凝视
 * n尊重，尊敬；注意，关注，关心；～s 问候，致意 
   regarding~concerning regardless(be regardless of与什么无关) 
 
-## reckon
+## reckon /ˈrekən/
 * v想，认为；料想，预计；估算，计算 
 
-## contemplate
+## contemplate /ˈkɑːntəmpleɪt/
 * v打算，想，考虑；深思熟虑；苦思冥想；端详，凝视 
 
-## meditate
+## meditate /ˈmedɪteɪt/
 * v沉思，深思；默想，冥想；考虑，谋划 
   meditation n冥想 
 
-## ponder
+## ponder /ˈpɑːndər/ 
 * v仔细考虑，深思（about/on/over） 
   this rainy evening the wind is restless.I look at the swaying branches and ponder over the greathness of all things. --Stray Birds,Tagore(泰戈尔《飞鸟集》) 
 
@@ -43,7 +43,7 @@
   to provide arguments both for and against monarchy 
   argumentation argumentative 
 
-## justification
+## justification /ˌdʒʌstɪfɪˈkeɪʃn/ 
 * n(做似乎错误的事情的)正当理由，合理的解释（for） 
 
 ## logic
@@ -60,7 +60,7 @@
 * v担心，担忧，发愁；烦扰，使不安宁
 * n忧虑；令人烦恼的事 
 
-## anxiety
+## anxiety /æŋˈzaɪəti/ 
 * n焦虑；担心，忧虑；渴望（for） 
   anxious 
   worryning doesn't take away tomorrow's troubles.It takes away today's peace --unknown 
@@ -87,14 +87,14 @@
 * v宣布，公布；<正式>发给，共给；发行；出版，发表；向……颁发
 * n重要议题，问题，担忧；（报刊的）期、号、版次 
 
-## affair
+## affair /əˈfer/
 * n事件；个人事物；【～s】公共事务；不正当关系 
 
 ## matter
 * n事情，问题；物质，材料
 * v重要，要紧，有关系 
 
-## edition
+## edition /ɪˈdɪʃn/
 * n版本；一次印刷量，版次；（报纸、杂志）一份；一期 
 
 ## version
@@ -105,17 +105,17 @@
   to publish stories on newsprint 
   publisher publication 
 
-## distribute
+## distribute /dɪˈstrɪbjuːt,ˈdɪstrɪbjuːt/ 
 * v分发，分配；分销；使散开，使分布 
   distribution. distributor 
 #  view
 * n(个人的)看法，观点，态度；（理解或思维的）方法，方式；景色，风景；视野
 * v把……视为，以……看待；查看，观看 
 
-## perspective
+## perspective /pərˈspektɪv/
 * n(思考问题的)角度，观点，想法；客观判断力，权衡轻重的能力 
 
-## opinion
+## opinion  /əˈpɪnjən/ 
 * n意见，看法；（对某人的）评价，印象；舆论，（群体的）观点；专家意见 
   to voice their opinions 
 
@@ -132,7 +132,7 @@
 ## standpoint
 * n立场，观点 
 
-## sight
+## sight /saɪt/
 * n视力；视觉；目睹；视力范围，视野；景象，情景；[the -s]名胜，风景
 * v看到，发现（期待的事物） 
 
@@ -141,11 +141,11 @@
   behind the scenes 
   scenery scenario 
 
-## landscape
+## landscape  /ˈlændskeɪp/
 * n风景，景色；形势，情形
 * v美化……的环境 
 
-## panorama
+## panorama  /ˌpænəˈræmə/
 * n全景，远景；概述，概论 
 
 ## benefit
@@ -153,7 +153,7 @@
 * v对（某人）有用；使收益；得益于 
   beneficial 
 
-## sake
+## sake /seɪk/
 * n目的，利益；理由，缘故 
   for the sake of 
 
@@ -167,11 +167,11 @@
   rewarding 有回报的 
   award 
 
-## advantage
+## advantage /ədˈvæntɪdʒ/
 * n有利条件；优势；好处，优点 
   advantageous有利的 
 
-## virtue
+## virtue /ˈvɜːrtʃuː/
 * n美德，高尚品德；优秀品质，良好习惯；优点，长处，用处 
   virtuous 
 
@@ -180,7 +180,7 @@
 * n（一定的）量，程度；尺度，标准；判断，衡量；措施，办法 
   measurable measurement 
 
-## gauge
+## gauge /ɡeɪdʒ/ 
 * v测量；估计，估算；判断，判定 
 
 ## calculate
@@ -193,7 +193,7 @@
 ## count
 * v数数，计算；计入，包括；重要，有价值；（被）正式接纳，正式认可；认为，看作 
 
-## estimate
+## estimate /ˈestɪmeɪt/ 
 * v估算；估价
 * n(对数量、成本等的)估计，估价 
 
@@ -202,11 +202,12 @@
 * n法官，审判官；裁判员 
   judgment [英式judgement] 
 
-## evaluate
+## evaluate  /ɪˈvæljueɪt/
 * v评价，评估 
 
-## acess
+## assess  /əˈses/ 
 * v评估，评定（性质、质量）；估算，核定（数量、价值） 
+* 扩展 access 接近，使用
 
 ## appraise
 * v估量，估价；（对某人的工作）作出评价 
@@ -217,9 +218,10 @@
 
 ## method
 * n方法，办法，措施；条理，有条不紊 
-  methodical methodology 
+* methodical  /məˈθɑːdɪkl/ 有条理的  
+* methodology /ˌmeθəˈdɑːlədʒi/  方法论
 
-## initiative
+## initiative  /ɪˈnɪʃətɪv/ 
 * n新措施，倡议；积极性，进取心；【the ~】掌握有利条件的能力（或机会），主动权 
 
 ## appear
@@ -260,10 +262,10 @@
 * adj常见的；普通的；共有的，共同的；普通的，寻常的，平凡的 
   plain adj普通的，平凡的 
 
-## ordinary
+## ordinary  /ˈɔːrdneri/
 * adj平常的，普通的，平凡的；平庸的，平淡无奇的 
 
-## commonplace
+## commonplace  /ˈkɑːmənpleɪs/
 * adj常见的；平凡的，普通的
 * n平常的事；老生常谈 
 
@@ -277,18 +279,18 @@
 * n（表现）方式，（交流）手段；【复数形式media】媒介，媒介物 
   social media 
 
-## intermediate
+## intermediate /ˌɪntərˈmiːdiət/ 
 * adj(两状态之间)，中间的；中级的，中等的，适合中等程度者的 
 
-## justice
+## justice /ˈdʒʌstɪs/ 
 * n公平，正义；合理，正当；司法制度，法律制裁；法官 
   justify 
 
-## equity
+## equity /ˈekwəti/
 * n公平，公正；（公司的）资产净值 
   equitable 
 
-## legitimacy
+## legitimacy /lɪˈdʒɪtɪməsi/
 * n合法性；合理性，正当性 
   legislation
 * n法律，法规 
@@ -312,7 +314,7 @@
 * v（为……）工作，服务；履行义务，尽职责，任职；可能作；能满足……的需要，提供；上（菜），开（饭） 
   service serving servant 
 
-## dispense
+## dispense /dɪˈspens/
 * v分配，分发；施与，提供（尤指服务）
 * dispensable 
 
@@ -323,36 +325,36 @@
 ## render
 * v使成为，使变得；给予，提供；递交，提交；表达，翻译 
 
-## furnish
+## furnish  /ˈfɜːrnɪʃ/
 * v布置家居，供应，提供 
 
 ## survey
 * n民意调查，民意检测；测量；勘测；总体研究，概述
 * v查看，审视；总体研究，概述；勘测；（对……）做民意调查，进行民意检测 
 
-## poll
+## poll  /poʊl/
 * n民意调查；选举投票；投票数
 * 对……进行民意检测 
   pollster 民意调查人 
 
-## questionnaire
+## questionnaire /ˌkwestʃəˈner/
 * n调查表；问卷 
 
-## census
+## census /ˈsensəs/
 * n（官方的）统计；人口普查，人口调查 
 
 ## overview
 * n概观，概述 
 
-## investigate
+## investigate /ɪnˈvestɪɡeɪt/ 
 * v调查，侦查（某事）；调查（某人）；研究，调查 
   investigation 
 
-## inquire
+## inquire  /ɪnˈkwaɪər/ 
 * v询问，打听；调查，查究 
   inquiry 
 
-## interrogate
+## interrogate  /ɪnˈterəɡeɪt/
 * v询问，审问，盘问 
 
 ## approach
@@ -366,7 +368,7 @@
   accessible 
   have access to sth:有……的机会，有……的权利 
 
-## avenue
+## avenue /ˈævənuː/ 
 * n街道，林荫大道；方法，途径 
 
 ## channel
