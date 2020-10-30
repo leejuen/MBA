@@ -83,8 +83,11 @@
    * [Unit 27](notes/vocabulary/unit27.md)  
    * [Unit 28](notes/vocabulary/unit28.md)  
    * [Unit 29](notes/vocabulary/unit29.md)  
-   * [Unit 30](notes/vocabulary/unit30.md)  
-* 6.面试
+   * [Unit 30](notes/vocabulary/unit30.md)
+* 6.错题笔记 
+   * [数学](notes/error/数学.md)  
+   * [逻辑](notes/error/逻辑.md)   
+* 7.面试
    * [管理学知识](notes/interview/MBA管理学知识.md)
    * [提前面试常见问题及选择策略](notes/interview/提前面试常见问题及选择策略.md)
    * [面试英语](notes/interview/面试英语.md)
